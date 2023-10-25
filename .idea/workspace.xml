@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87bd9d91-3831-4c63-b16b-434ce82c6e32" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productos.json" beforeDir="false" afterPath="$PROJECT_DIR$/productos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1695678320880.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1695678372357.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1695678403749.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1695678419822.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1695678499825.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1695678514179.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678320880.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678403749.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678499825.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678555569.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678568292.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678698604.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678715553.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678794550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678865736.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/1695678941165.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/resized/Captura de pantalla 2023-09-23 202418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695678555569.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695678568292.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695678698604.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695678715553.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695678794550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695678865736.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695678941165.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695679208985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695679240565.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695679321279.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/uploads/1695679443357.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2VeUxJJhfcFeKfI3GLA5MDeB2hz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Camilo Peña Marín/Documents/Desarrollos web/Boutique",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Camilo Peña Marín\Documents\Desarrollos web\Boutique\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serverPruebas.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/serverPruebas.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87bd9d91-3831-4c63-b16b-434ce82c6e32" name="Changes" comment="" />
+      <created>1695196286639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695196286639</updated>
+      <workItem from="1695196288007" duration="3516000" />
+      <workItem from="1695220024100" duration="8821000" />
+      <workItem from="1695256698784" duration="10422000" />
+      <workItem from="1695277385926" duration="214000" />
+      <workItem from="1695325863636" duration="363000" />
+      <workItem from="1695658702226" duration="586000" />
+      <workItem from="1695659301720" duration="20453000" />
+      <workItem from="1695699015242" duration="5000" />
+      <workItem from="1695828998149" duration="8207000" />
+      <workItem from="1696003319503" duration="54000" />
+      <workItem from="1696304465946" duration="1652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

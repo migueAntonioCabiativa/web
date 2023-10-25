@@ -1,0 +1,64 @@
+.programadores-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    /* Centra los elementos horizontalmente */
+    align-items: center;
+    /* Centra los elementos verticalmente */
+}
+
+.programador {
+    text-align: center;
+    margin: 0 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px 30px;
+    border-radius: 9px;
+    /* Ajusta el espacio entre los programadores */
+}
+
+.programador-name {
+    margin-top: 30px;
+    color: #fff;
+}
+
+.avatar {
+    width: 250px;
+    /* Ajusta el tamaño del círculo */
+    height: 250px;
+    /* Ajusta el tamaño del círculo */
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #fff;
+}
+
+.nombre {
+    margin-top: 10px;
+    /* Agrega espacio entre el avatar y el nombre */
+}
+
+.btn-nav {
+    background-color: #46464681;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn-logout {
+    background-color: #46464681;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.btn-logout:hover {
+    background-color: #cc0000;
+    /* Cambia el color de fondo al pasar el cursor */
+}

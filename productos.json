@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1696306187953,
+        "nombre": "Vestido Rojo",
+        "descripcion": "Descripción Vestido Rojo",
+        "precio": 1234,
+        "nombreImagen": "1695266348467-imagen1.png"
+    },
+    {
+        "id": 1696306212200,
+        "nombre": "Vestido Azul",
+        "descripcion": "Descripción Vestido Azul",
+        "precio": 1234,
+        "nombreImagen": "1695266375525-imagen2.png"
+    },
+    {
+        "id": 1696306232729,
+        "nombre": "Vestido Verde",
+        "descripcion": "Descripción Vestido Verde",
+        "precio": 9876,
+        "nombreImagen": "1695266411275-imagen4.jpg"
+    },
+    {
+        "id": 1696306251871,
+        "nombre": "Vestido Rosado",
+        "descripcion": "Descripción Vestido Rosado",
+        "precio": 999112,
+        "nombreImagen": "1695266451188-imagen3.jpg"
+    }
+]

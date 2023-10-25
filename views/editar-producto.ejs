@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Producto</title>
+    <link rel="stylesheet" href="/css/stylesEditar.css"> <!-- Agrega la ruta correcta a tu archivo de estilos CSS -->
+</head>
+<body>
+<h1>Editar Producto</h1>
+<form action="/admin/editar-producto/<%= producto.id %>" method="POST">
+    <label for="nombre">Nombre del Producto:</label>
+    <input type="text" id="nombre" name="nombre" value="<%= producto.nombre %>" required>
+
+    <label for="descripcion">Descripción:</label>
+    <textarea id="descripcion" name="descripcion" rows="4" required><%= producto.descripcion %></textarea>
+
+    <label for="precio">Precio:</label>
+    <input type="number" id="precio" name="precio" value="<%= producto.precio %>" required>
+
+    <label for="imagen">Nueva Imagen del Producto:</label>
+    <input type="file" id="imagen" name="imagen" accept="image/*" max-size="1048576">
+
+    <button type="submit">Guardar Cambios</button>
+    </form>
+
+</body>
+</html>
